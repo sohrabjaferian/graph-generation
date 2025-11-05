@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">hsa:5289</data>
+  <data key="d1">gene</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:10376 hsa:112714 hsa:113457 hsa:51807 hsa:7277 hsa:7278 hsa:7846 hsa:79861 hsa:84790</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:10381 hsa:10382 hsa:10383 hsa:124908013 hsa:124908015 hsa:124908041 hsa:203068 hsa:260334 hsa:347688 hsa:347733 hsa:7280 hsa:81027 hsa:84617</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="4">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="5">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<edge source="1" target="2">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="3" target="0">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="4" target="5">
+  <data key="d2">PPrel</data>
+</edge>
+</graph></graphml>

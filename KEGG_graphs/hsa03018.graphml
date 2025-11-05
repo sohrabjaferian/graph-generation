@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">hsa:29883 hsa:9337</data>
+  <data key="d1">gene</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:10140 hsa:10766 hsa:10950 hsa:54766 hsa:694 hsa:7832</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:132430 hsa:140886 hsa:26986 hsa:340529 hsa:5042 hsa:645974 hsa:80336 hsa:8761</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">hsa:9924</data>
+  <data key="d1">gene</data>
+</node>
+<node id="4">
+  <data key="d0">hsa:255967</data>
+  <data key="d1">gene</data>
+</node>
+<edge source="2" target="0">
+  <data key="d2">PCrel</data>
+</edge>
+<edge source="2" target="1">
+  <data key="d2">PCrel</data>
+</edge>
+<edge source="2" target="4">
+  <data key="d2">PCrel</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d2">PPrel</data>
+</edge>
+</graph></graphml>

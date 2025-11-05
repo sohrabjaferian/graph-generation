@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">hsa:124906959 hsa:128966586 hsa:5222 hsa:643834 hsa:643847</data>
+  <data key="d1">gene</data>
+</node>
+<node id="1">
+  <data key="d0">cpd:C01327</data>
+  <data key="d1">compound</data>
+</node>
+<edge source="1" target="0">
+  <data key="d2">PCrel</data>
+</edge>
+</graph></graphml>

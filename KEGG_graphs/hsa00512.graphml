@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">path:hsa00533</data>
+  <data key="d1">map</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:9245</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:2650</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">hsa:9334</data>
+  <data key="d1">gene</data>
+</node>
+<node id="4">
+  <data key="d0">hsa:10610 hsa:55808</data>
+  <data key="d1">gene</data>
+</node>
+<node id="5">
+  <data key="d0">hsa:55808</data>
+  <data key="d1">gene</data>
+</node>
+<node id="6">
+  <data key="d0">hsa:6482 hsa:6483</data>
+  <data key="d1">gene</data>
+</node>
+<node id="7">
+  <data key="d0">hsa:192134</data>
+  <data key="d1">gene</data>
+</node>
+<node id="8">
+  <data key="d0">hsa:100528030 hsa:11226 hsa:11227 hsa:114805 hsa:117248 hsa:168391 hsa:2589 hsa:2590 hsa:2591 hsa:26290 hsa:374378 hsa:442117 hsa:50614 hsa:51809 hsa:55568 hsa:57452 hsa:63917 hsa:64409 hsa:79623 hsa:79695 hsa:8693</data>
+  <data key="d1">gene</data>
+</node>
+<node id="9">
+  <data key="d0">hsa:29071 hsa:56913 hsa:728819</data>
+  <data key="d1">gene</data>
+</node>
+<node id="10">
+  <data key="d0">hsa:2650 hsa:51301 hsa:9245</data>
+  <data key="d1">gene</data>
+</node>
+<node id="11">
+  <data key="d0">hsa:10331</data>
+  <data key="d1">gene</data>
+</node>
+<node id="12">
+  <data key="d0">hsa:10610 hsa:55808</data>
+  <data key="d1">gene</data>
+</node>
+<node id="13">
+  <data key="d0">hsa:256435 hsa:27090</data>
+  <data key="d1">gene</data>
+</node>
+<edge source="1" target="7">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="8">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="3">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="7">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="5">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="4" target="6">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="8">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="7">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="13">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="11">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="12">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="10">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="7" target="8">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="7" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="8" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="9" target="11">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="9" target="12">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="9" target="10">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="10" target="0">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="11" target="10">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="12" target="10">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="12" target="11">
+  <data key="d2">ECrel</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">cpd:C00575</data>
+  <data key="d1">compound</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:551</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:554</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">hsa:2778</data>
+  <data key="d1">gene</data>
+</node>
+<node id="4">
+  <data key="d0">hsa:109 hsa:112 hsa:115</data>
+  <data key="d1">gene</data>
+</node>
+<node id="5">
+  <data key="d0">hsa:5566 hsa:5567 hsa:5568</data>
+  <data key="d1">gene</data>
+</node>
+<node id="6">
+  <data key="d0">hsa:10488 hsa:1385 hsa:148327 hsa:64764 hsa:84699 hsa:90993 hsa:9586</data>
+  <data key="d1">gene</data>
+</node>
+<node id="7">
+  <data key="d0">hsa:359</data>
+  <data key="d1">gene</data>
+</node>
+<node id="8">
+  <data key="d0">hsa:396 hsa:397 hsa:398</data>
+  <data key="d1">gene</data>
+</node>
+<node id="9">
+  <data key="d0">hsa:6810</data>
+  <data key="d1">gene</data>
+</node>
+<node id="10">
+  <data key="d0">hsa:6844</data>
+  <data key="d1">gene</data>
+</node>
+<edge source="0" target="5">
+  <data key="d2">PCrel</data>
+</edge>
+<edge source="1" target="2">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="2" target="3">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="4" target="0">
+  <data key="d2">PCrel</data>
+</edge>
+<edge source="5" target="7">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="5" target="8">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="5" target="6">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="6" target="7">
+  <data key="d2">GErel</data>
+</edge>
+<edge source="10" target="9">
+  <data key="d2">PPrel</data>
+</edge>
+</graph></graphml>

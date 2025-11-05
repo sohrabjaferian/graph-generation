@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">hsa:100132463 hsa:100288814 hsa:100506658 hsa:10686 hsa:1364 hsa:1365 hsa:1366 hsa:137075 hsa:149461 hsa:23562 hsa:24146 hsa:26285 hsa:49861 hsa:5010 hsa:51208 hsa:53842 hsa:644672 hsa:7122 hsa:9069 hsa:9071 hsa:9073 hsa:9074 hsa:9075 hsa:9076 hsa:9080 hsa:90952</data>
+  <data key="d1">gene</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:4313 hsa:4318</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:100132463 hsa:100288814 hsa:100506658 hsa:10686 hsa:1364 hsa:1365 hsa:1366 hsa:137075 hsa:149461 hsa:23562 hsa:24146 hsa:26285 hsa:49861 hsa:5010 hsa:51208 hsa:53842 hsa:644672 hsa:7122 hsa:9069 hsa:9071 hsa:9073 hsa:9074 hsa:9075 hsa:9076 hsa:9080 hsa:90952</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">hsa:1003</data>
+  <data key="d1">gene</data>
+</node>
+<node id="4">
+  <data key="d0">hsa:4267 hsa:83692</data>
+  <data key="d1">gene</data>
+</node>
+<node id="5">
+  <data key="d0">hsa:5175</data>
+  <data key="d1">gene</data>
+</node>
+<node id="6">
+  <data key="d0">hsa:1500</data>
+  <data key="d1">gene</data>
+</node>
+<node id="7">
+  <data key="d0">hsa:9564</data>
+  <data key="d1">gene</data>
+</node>
+<node id="8">
+  <data key="d0">hsa:4301</data>
+  <data key="d1">gene</data>
+</node>
+<node id="9">
+  <data key="d0">hsa:6494</data>
+  <data key="d1">gene</data>
+</node>
+<node id="10">
+  <data key="d0">hsa:5175</data>
+  <data key="d1">gene</data>
+</node>
+<node id="11">
+  <data key="d0">hsa:50848</data>
+  <data key="d1">gene</data>
+</node>
+<node id="12">
+  <data key="d0">hsa:1003</data>
+  <data key="d1">gene</data>
+</node>
+<node id="13">
+  <data key="d0">hsa:4267 hsa:83692</data>
+  <data key="d1">gene</data>
+</node>
+<node id="14">
+  <data key="d0">hsa:58494</data>
+  <data key="d1">gene</data>
+</node>
+<node id="15">
+  <data key="d0">hsa:110117499 hsa:5290 hsa:5291 hsa:5293 hsa:5295 hsa:5296 hsa:8503</data>
+  <data key="d1">gene</data>
+</node>
+<node id="16">
+  <data key="d0">hsa:1499</data>
+  <data key="d1">gene</data>
+</node>
+<node id="17">
+  <data key="d0">hsa:60 hsa:71</data>
+  <data key="d1">gene</data>
+</node>
+<node id="18">
+  <data key="d0">hsa:103910 hsa:10398 hsa:10627 hsa:29895 hsa:4633 hsa:4636 hsa:58498 hsa:93408</data>
+  <data key="d1">gene</data>
+</node>
+<node id="19">
+  <data key="d0">hsa:6093 hsa:9475</data>
+  <data key="d1">gene</data>
+</node>
+<node id="20">
+  <data key="d0">hsa:5578 hsa:5579 hsa:5582</data>
+  <data key="d1">gene</data>
+</node>
+<node id="21">
+  <data key="d0">hsa:5747</data>
+  <data key="d1">gene</data>
+</node>
+<node id="22">
+  <data key="d0">hsa:387</data>
+  <data key="d1">gene</data>
+</node>
+<node id="23">
+  <data key="d0">hsa:83700</data>
+  <data key="d1">gene</data>
+</node>
+<node id="24">
+  <data key="d0">hsa:1432 hsa:5600 hsa:5603 hsa:6300</data>
+  <data key="d1">gene</data>
+</node>
+<node id="25">
+  <data key="d0">hsa:2909 hsa:394</data>
+  <data key="d1">gene</data>
+</node>
+<node id="26">
+  <data key="d0">hsa:1495 hsa:1496 hsa:29119</data>
+  <data key="d1">gene</data>
+</node>
+<node id="27">
+  <data key="d0">hsa:5829</data>
+  <data key="d1">gene</data>
+</node>
+<node id="28">
+  <data key="d0">hsa:5879</data>
+  <data key="d1">gene</data>
+</node>
+<node id="29">
+  <data key="d0">hsa:1499</data>
+  <data key="d1">gene</data>
+</node>
+<node id="30">
+  <data key="d0">hsa:10451 hsa:7409 hsa:7410</data>
+  <data key="d1">gene</data>
+</node>
+<node id="31">
+  <data key="d0">hsa:5879</data>
+  <data key="d1">gene</data>
+</node>
+<node id="32">
+  <data key="d0">hsa:5880</data>
+  <data key="d1">gene</data>
+</node>
+<node id="33">
+  <data key="d0">hsa:4478 hsa:7430</data>
+  <data key="d1">gene</data>
+</node>
+<node id="34">
+  <data key="d0">hsa:10411 hsa:11069</data>
+  <data key="d1">gene</data>
+</node>
+<node id="35">
+  <data key="d0">hsa:3702 hsa:7294</data>
+  <data key="d1">gene</data>
+</node>
+<node id="36">
+  <data key="d0">hsa:2185</data>
+  <data key="d1">gene</data>
+</node>
+<node id="37">
+  <data key="d0">hsa:6387</data>
+  <data key="d1">gene</data>
+</node>
+<node id="38">
+  <data key="d0">hsa:7852</data>
+  <data key="d1">gene</data>
+</node>
+<node id="39">
+  <data key="d0">hsa:2770 hsa:2771 hsa:2773</data>
+  <data key="d1">gene</data>
+</node>
+<node id="40">
+  <data key="d0">hsa:7070</data>
+  <data key="d1">gene</data>
+</node>
+<node id="41">
+  <data key="d0">hsa:7412</data>
+  <data key="d1">gene</data>
+</node>
+<node id="42">
+  <data key="d0">hsa:3383</data>
+  <data key="d1">gene</data>
+</node>
+<node id="43">
+  <data key="d0">hsa:5335 hsa:5336</data>
+  <data key="d1">gene</data>
+</node>
+<node id="44">
+  <data key="d0">hsa:103910 hsa:10398 hsa:10627 hsa:29895 hsa:4633 hsa:4636 hsa:58498 hsa:93408</data>
+  <data key="d1">gene</data>
+</node>
+<node id="45">
+  <data key="d0">hsa:6093 hsa:9475</data>
+  <data key="d1">gene</data>
+</node>
+<node id="46">
+  <data key="d0">hsa:387</data>
+  <data key="d1">gene</data>
+</node>
+<node id="47">
+  <data key="d0">hsa:998</data>
+  <data key="d1">gene</data>
+</node>
+<node id="48">
+  <data key="d0">hsa:4478 hsa:7430</data>
+  <data key="d1">gene</data>
+</node>
+<node id="49">
+  <data key="d0">hsa:110117499 hsa:5290 hsa:5291 hsa:5293 hsa:5295 hsa:5296 hsa:8503</data>
+  <data key="d1">gene</data>
+</node>
+<node id="50">
+  <data key="d0">hsa:10451 hsa:7409 hsa:7410</data>
+  <data key="d1">gene</data>
+</node>
+<node id="51">
+  <data key="d0">hsa:60 hsa:71</data>
+  <data key="d1">gene</data>
+</node>
+<node id="52">
+  <data key="d0">hsa:5906 hsa:5908</data>
+  <data key="d1">gene</data>
+</node>
+<node id="53">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="54">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="55">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="56">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="57">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="58">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="59">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<node id="60">
+  <data key="d0">undefined</data>
+  <data key="d1">group</data>
+</node>
+<edge source="2" target="0">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="3" target="6">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="3" target="29">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="3" target="12">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="4" target="13">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="5" target="16">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="5" target="10">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="11" target="56">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="14" target="55">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="15" target="28">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="17" target="26">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="18" target="17">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="19" target="18">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="20" target="21">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="20" target="27">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="20" target="7">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="22" target="7">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="22" target="21">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="22" target="19">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="22" target="27">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="23" target="54">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="25" target="22">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="26" target="29">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="28" target="53">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="30" target="46">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="33" target="42">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="33" target="51">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="34" target="60">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="35" target="50">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="36" target="50">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="37" target="38">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="38" target="39">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="38" target="36">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="39" target="49">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="39" target="34">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="40" target="25">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="40" target="59">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="41" target="15">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="41" target="48">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="41" target="53">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="41" target="57">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="42" target="43">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="42" target="58">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="42" target="22">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="43" target="20">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="45" target="44">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="46" target="45">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="48" target="51">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="49" target="35">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="50" target="47">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="50" target="31">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="50" target="32">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="52" target="9">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="52" target="22">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="52" target="8">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="53" target="24">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="53" target="1">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="58" target="36">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="58" target="30">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="60" target="57">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="60" target="59">
+  <data key="d2">PPrel</data>
+</edge>
+<edge source="60" target="58">
+  <data key="d2">PPrel</data>
+</edge>
+</graph></graphml>

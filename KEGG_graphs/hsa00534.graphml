@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">hsa:2135 hsa:2137</data>
+  <data key="d1">gene</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:2131 hsa:2132</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:2134 hsa:2137</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">hsa:26229</data>
+  <data key="d1">gene</data>
+</node>
+<node id="4">
+  <data key="d0">hsa:64131 hsa:64132</data>
+  <data key="d1">gene</data>
+</node>
+<node id="5">
+  <data key="d0">hsa:11285</data>
+  <data key="d1">gene</data>
+</node>
+<node id="6">
+  <data key="d0">hsa:126792</data>
+  <data key="d1">gene</data>
+</node>
+<edge source="0" target="1">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="1" target="2">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="3" target="0">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="4" target="5">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="6">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="3">
+  <data key="d2">ECrel</data>
+</edge>
+</graph></graphml>

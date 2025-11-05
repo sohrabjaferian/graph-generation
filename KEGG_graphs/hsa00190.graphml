@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">hsa:101927180 hsa:10312 hsa:10476 hsa:10632 hsa:124901481 hsa:127124 hsa:155066 hsa:23545 hsa:245972 hsa:245973 hsa:267020 hsa:4508 hsa:4509 hsa:498 hsa:506 hsa:50617 hsa:509 hsa:513 hsa:51382 hsa:514 hsa:515 hsa:516 hsa:51606 hsa:517 hsa:518 hsa:521 hsa:522 hsa:523 hsa:525 hsa:526 hsa:527 hsa:528 hsa:529 hsa:533 hsa:534 hsa:535 hsa:537 hsa:539 hsa:8992 hsa:90423 hsa:9114 hsa:9296 hsa:9550 hsa:9551</data>
+  <data key="d1">gene</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:479 hsa:495 hsa:496</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:27068 hsa:5464 hsa:64077</data>
+  <data key="d1">gene</data>
+</node>
+<edge source="0" target="2">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="1" target="2">
+  <data key="d2">ECrel</data>
+</edge>
+</graph></graphml>

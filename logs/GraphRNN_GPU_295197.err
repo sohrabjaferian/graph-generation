@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/gpfs/fs1/home/sjaferia/Graph_Generation/main.py", line 1, in <module>
+    from train import *
+  File "/gpfs/fs1/home/sjaferia/Graph_Generation/train.py", line 3, in <module>
+    import torch
+  File "/gpfs/fs1/home/sjaferia/conda-envs/torch-env/lib/python3.9/site-packages/torch/__init__.py", line 811, in <module>
+    from .functional import *  # noqa: F403
+  File "/gpfs/fs1/home/sjaferia/conda-envs/torch-env/lib/python3.9/site-packages/torch/functional.py", line 7, in <module>
+    import torch.nn.functional as F
+  File "/gpfs/fs1/home/sjaferia/conda-envs/torch-env/lib/python3.9/site-packages/torch/nn/__init__.py", line 1, in <module>
+    from .modules import *  # noqa: F403
+  File "/gpfs/fs1/home/sjaferia/conda-envs/torch-env/lib/python3.9/site-packages/torch/nn/modules/__init__.py", line 2, in <module>
+    from .linear import Identity, Linear, Bilinear, LazyLinear
+  File "/gpfs/fs1/home/sjaferia/conda-envs/torch-env/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 10, in <module>
+    from .lazy import LazyModuleMixin
+  File "/gpfs/fs1/home/sjaferia/conda-envs/torch-env/lib/python3.9/site-packages/torch/nn/modules/lazy.py", line 2, in <module>
+    from typing_extensions import Protocol
+ModuleNotFoundError: No module named 'typing_extensions'

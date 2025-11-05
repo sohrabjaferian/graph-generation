@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">path:map00960</data>
+  <data key="d1">map</data>
+</node>
+<node id="1">
+  <data key="d0">hsa:218 hsa:221 hsa:222</data>
+  <data key="d1">gene</data>
+</node>
+<node id="2">
+  <data key="d0">hsa:1644</data>
+  <data key="d1">gene</data>
+</node>
+<node id="3">
+  <data key="d0">hsa:314 hsa:8639</data>
+  <data key="d1">gene</data>
+</node>
+<node id="4">
+  <data key="d0">hsa:4128 hsa:4129</data>
+  <data key="d1">gene</data>
+</node>
+<node id="5">
+  <data key="d0">hsa:3242</data>
+  <data key="d1">gene</data>
+</node>
+<node id="6">
+  <data key="d0">hsa:6898</data>
+  <data key="d1">gene</data>
+</node>
+<node id="7">
+  <data key="d0">hsa:137362 hsa:2805 hsa:2806</data>
+  <data key="d1">gene</data>
+</node>
+<node id="8">
+  <data key="d0">hsa:4282</data>
+  <data key="d1">gene</data>
+</node>
+<node id="9">
+  <data key="d0">hsa:259307</data>
+  <data key="d1">gene</data>
+</node>
+<node id="10">
+  <data key="d0">path:hsa00400</data>
+  <data key="d1">map</data>
+</node>
+<node id="11">
+  <data key="d0">hsa:5053</data>
+  <data key="d1">gene</data>
+</node>
+<node id="12">
+  <data key="d0">path:hsa00350</data>
+  <data key="d1">map</data>
+</node>
+<node id="13">
+  <data key="d0">path:map00643</data>
+  <data key="d1">map</data>
+</node>
+<edge source="0" target="10">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="1" target="4">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="1" target="3">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="11">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="0">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="2" target="10">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="2" target="6">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="7">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="4">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="2" target="3">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="8">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="13">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="5" target="7">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="5" target="6">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="8">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="6" target="0">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="6" target="10">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="6" target="11">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="7" target="8">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="7" target="0">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="7" target="10">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="7" target="11">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="8" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="9" target="7">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="9" target="0">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="9" target="10">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="11" target="0">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="11" target="10">
+  <data key="d2">maplink</data>
+</edge>
+<edge source="11" target="9">
+  <data key="d2">ECrel</data>
+</edge>
+<edge source="12" target="11">
+  <data key="d2">maplink</data>
+</edge>
+</graph></graphml>
